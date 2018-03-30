@@ -1,6 +1,6 @@
 ## Advanced Todo List
 
-A web app that allows users to add tasks to complete, mark tasks that have been completed, and delete tasks permanently from their list. 
+A stylish and beautifully designed web app that allows users to add tasks to complete, mark tasks that have been completed, and delete tasks permanently from their list. 
 
 ### Built With
 
