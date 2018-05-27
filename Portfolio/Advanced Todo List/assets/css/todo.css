@@ -82,3 +82,23 @@ li:hover span {
 	background: #f7f7f7;
 	box-shadow: 0 0 3px rgba(0,0,0,0.1);
 }
+
+#space {
+	height: 1000px;
+	opacity: 0px;
+}
+
+img {
+	opacity: 0.01;
+	width: 100px;
+	height: 100px;
+	transition: 0.5s;
+	position: center;
+	display: block;
+	margin: 0 auto;
+}
+
+img:hover {
+	opacity: 1.0;
+
+}
